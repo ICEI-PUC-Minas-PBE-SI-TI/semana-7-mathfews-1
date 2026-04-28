@@ -4,8 +4,8 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Matheus Felipe Costa William.
+- Matrícula: 927495
 
 ## Print do console do navegador
 
